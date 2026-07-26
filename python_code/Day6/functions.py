@@ -7,4 +7,4 @@ def my_function():              # define our own function
     print("Bye")
 
 
-my_function()
+my_function()                   # execute function / calling function
