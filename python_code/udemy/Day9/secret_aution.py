@@ -23,3 +23,8 @@ while True:
             highest_name, highest_value = return_max(bidder)
             print(f"{highest_name} has called ${highest_value} as highest price")
             break
+
+"""
+currently it doesn't matter if user puts integer value as name
+by transfering type of data we can avoid this problem.
+"""
